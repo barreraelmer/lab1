@@ -1,0 +1,14 @@
+@import 'https://fonts.googleapis.com/css?family=Inconsolata|Karla';
+
+body {
+  margin: 0 auto;
+  max-width: 60em;
+}
+
+h1, h2 {
+  font-family: 'Karla', sans-serif;
+}
+
+h4, p, li {
+  font-family: 'Inconsolata', monospace;
+}
